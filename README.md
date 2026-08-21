@@ -13,7 +13,7 @@ I'm interested in building practical software and exploring the intersection of 
 - Experience in cybersecurity and security operations
 - English & Spanish
 
-## 🛠️ Technologies
+## Technologies
 
 **Languages**
 
