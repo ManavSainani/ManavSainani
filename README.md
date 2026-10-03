@@ -29,6 +29,12 @@ Software Engineering · AI/LLMs · AI Agents · Computer Vision · Data Science 
 
 ## Featured Projects
 
+### SentinelPi cybersecurity monitor
+Raspberry Pi-based cybersecurity monitoring system that detects suspicious system, network, and login activity and provides real-time security alerts.
+
+### Deimos
+Full-stack capstone platform for archiving, discovering, and managing university of Tampa student projects using Next.js, TypeScript, and Supabase.
+
 ### MindCraft learning platform
 Full-stack educational platform built with React, TypeScript, and Supabase.
 
